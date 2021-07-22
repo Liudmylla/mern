@@ -1,0 +1,6 @@
+{
+    "port" : 5000,
+    "jwtSecret":"luda klymenko",
+    "baseUrl": "http://localhost:5000",
+    "mongoUrl": "mongodb+srv://luda:OmeU6S3rQ56w2E9Z@cluster0.wozzr.mongodb.net/app?retryWrites=true&w=majority"
+}
